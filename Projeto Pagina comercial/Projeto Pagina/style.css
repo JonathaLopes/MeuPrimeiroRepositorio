@@ -1,0 +1,253 @@
+*{
+    padding: 0;
+    margin: 0 auto;
+    box-sizing: border-box;
+ }
+
+ body{
+     width: 1200px;
+     height: 1200px;
+ }
+
+
+
+
+.Menu{
+
+    display:flex;
+  
+    
+    
+    
+    
+}
+
+
+.logo{
+    display: flex;
+    align-items: center;
+    float: left;
+    margin-left: 40px;
+    
+    
+    
+    
+}
+
+.logo a{
+    display:inline-flex;
+    align-items: center;
+    text-decoration: none;
+    font-family: 'Open Sans', sans-serif;
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+    font-weight: 800;
+}
+
+
+.menu1{
+    margin-top: 20px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 800;
+}
+
+
+.Menu ul li a{
+    display:inline-flex;
+    align-items: center;
+    text-decoration: none;
+    font-size: 30px;
+    color:rgb(0, 0, 0);
+  
+
+}
+
+
+.Menu ul li{
+
+    display:inline-flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 2px 10px;
+       
+    
+}
+  
+.redesocial ul li{
+    display:inline;
+    margin-top: 10%;
+    float: right;
+    list-style: none;
+    justify-content: space-between;
+    padding: 2px 10px;
+}
+
+.container{
+margin: 50px;
+    width: 1199px;
+    height: 400px;
+}
+
+.imagem1{
+
+    display:flex;
+    float: right;
+    width: 500px;
+    margin: 40px;
+}
+
+.h2class{
+
+    font-family: 'Open Sans', sans-serif;
+    margin: 50px;
+    text-align: left;
+    color: red;
+    font-size: 30px;
+}
+
+.pclass1{
+    font-family: 'Open Sans', sans-serif;
+    margin: 50px;
+    font-size: 25px;
+    text-align: left;
+    color: seagreen;
+}
+
+.pclass2{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    text-align: left;
+    margin: 50px;
+
+}
+
+
+.contato{
+
+    display: block;
+background-color:rgb(40, 100, 66);
+height: 170px;
+width: 1200px;
+    display: inline-block;
+    margin-top: 100px;
+    justify-content: center;
+    text-align: center;
+    
+    
+}
+
+
+.h2class2{
+    
+    font-family: 'Open Sans', sans-serif;
+    font-size: 40px;
+    color: white;
+}
+
+.h4class{
+    
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    color: white;
+    
+}
+
+.botao{
+    border-color: limegreen;
+    border-style: ridge;
+    display: block;
+    margin-top: 30px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 10px;
+    background-color: rgb(32, 155, 38);
+    width: 200px;
+    height: 30px;
+    
+}
+
+
+
+
+.imagecontainer{
+
+    
+    margin: 40px;
+    display: flex;
+    display: -webkit-flex;
+    justify-content: center;
+    align-items: center;
+
+
+
+}
+
+
+.YOGA{
+    color: black;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 40px;
+    text-align: center;
+    
+}
+
+.Cardio{
+    color: black;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 40px;
+    text-align: center;
+
+}
+
+.Boxe{
+    color: black;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 40px;
+    text-align: center;
+    
+}
+.Cardio{
+    
+    color: black;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 40px;
+    text-align: center;
+   
+}
+.Boxe{
+    
+    color: black;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 40px;
+    text-align: center;
+    
+}
+
+.imagem2{
+   
+border: seagreen 7px solid;
+    width: 350px;
+   
+
+}
+
+.imagem3{
+    
+    width: 350px;
+    border: seagreen 7px solid;
+}
+
+.imagem4{
+    
+    width: 350px;
+    border: seagreen 7px solid;
+}
+
+.paraguafofinal{
+height: 120px;
+width: 1200px;
+background-color: seagreen;
+font-family: 'Open Sans', sans-serif;
+font-size: 18px;
+text-align: center;
+
+}
